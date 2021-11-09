@@ -1,2 +1,2 @@
-# udemy-react-todo3_R2
+# udemy-react-todo3
 Created with CodeSandbox
